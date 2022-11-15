@@ -88,3 +88,15 @@ Add Multiple Cursor
 Option+Click
 Alt+Click
 ```
+
+Searching in file
+```bash
+Cmd+F
+Ctrl+F
+```
+
+Global Search
+```bash
+Cmd+Shift+F
+Ctrl+Shift+F
+```
