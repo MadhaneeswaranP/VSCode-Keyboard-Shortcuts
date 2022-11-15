@@ -57,18 +57,11 @@ Cmd+W
 Ctrl+W
 ```
 
-
-Open File/Folder From Sidebar
-```
-Cmd+Down
-Ctrl+Down
-```
-
 Change File Tabs
 
 ```bash
-Ctrl+Tab 
-Ctrl+PageUP
+Cmd+Tab 
+Ctrl+Tab
 ```
 
 
