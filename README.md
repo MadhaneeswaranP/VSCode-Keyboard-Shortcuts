@@ -25,14 +25,14 @@ Ctrl+,
 Toggle Terminal
 
 ```bash
-Ctrl+`
+Cmd+`
 Ctrl+`
 ```
 
 Create New Terminal
 ```
-Shift+Ctrl+`
-Shift+Ctrl+`
+Cmd+Shift+`
+Ctrl+Shift+`
 ```
 
 Toggle Sidebar
